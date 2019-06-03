@@ -1,0 +1,7 @@
+{
+  "name": "chimni",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
